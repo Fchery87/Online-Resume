@@ -1,7 +1,6 @@
 body {
-  margin: auto;
+  margin: 0 auto;
   font-family: 'Poppins';
-  /* background-color: #3D3B40; */
   background-color: #222831;
   color: #fbf3d5;
 }
@@ -14,16 +13,11 @@ body {
 
 .container {
     display: flex;
-    /* flex: 2; */
-    /* justify-content: center; */
+    justify-content: center;
   /* align-content: center; */
 }
 
 .right-column {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  /* align-content: center; */
   padding-left: 10px;
 }
 
@@ -41,9 +35,6 @@ img {
   max-width: 60%;
 }
 
-a {
-  /* min-width: 33%; */
-}
 
 .title {
   min-width: 33%;
