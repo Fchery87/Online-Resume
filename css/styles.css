@@ -14,16 +14,16 @@ body {
 
 .container {
     display: flex;
-    flex: 2;
+    /* flex: 2; */
     /* justify-content: center; */
   /* align-content: center; */
 }
 
 .right-column {
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-content: center;
+  /* align-content: center; */
   padding-left: 10px;
 }
 
